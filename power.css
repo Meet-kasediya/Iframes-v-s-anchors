@@ -276,7 +276,49 @@ font-weight: bold;
  
 }
  
+ .credits{   
 
+  font: 300 18px/1.5 Merriweather, serif;
+  color: gray;
+
+ }
+
+ .name{
+  font-family:"Lato", sans-serif;
+  text-decoration: none;
+}
+
+        .git{
+
+          background-color: #24292e;
+          color: white;
+          font-weight: bold;
+          padding-top: 9px;
+          padding-left: 6px;
+          padding-right: 6px;
+          border-radius: 0 0 12px 12px;
+          margin-left: 998px;
+          top: 0px;
+          position: absolute;
+        }
+
+
+        .git:hover{
+
+          background-color: whitesmoke;
+          color: #24292e;
+        }
+
+  .gitacr
+               {
+                  color: white;
+                  text-decoration: none;
+               }
+  .gitacr:hover
+               {
+                  color: #24292e; 
+ 
+              }
 
 @-webkit-keyframes turn {
   0% {
