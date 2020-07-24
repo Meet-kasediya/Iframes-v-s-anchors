@@ -5,7 +5,7 @@
   -webkit-animation: click-wave 0.65s;
   -moz-animation: click-wave 0.65s;
   animation: click-wave 0.65s;
-
+  transition: background-color 0.3s;
 }
 
 .con{
@@ -161,13 +161,11 @@ th{
 	border-radius: 11px 11px 11px 11px; 
 }
 
-.dropdown-content a:hover {background-color: yellow;
- 
-	border:2px solid black;
-
- 
- 
-}
+                         .dropdown-content a:hover {
+                          background-color: yellow;
+                          transition: background-color 0.2s;
+ 	                  border:2px solid black;
+                           }
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -233,7 +231,7 @@ border-radius:12px 12px 12px 12px;
 }
 
 .pwrsrc:hover{
-
+              transition: background-color 0.2s;
             border: 1px solid #1b1b1b;  
             color: #1b1b1b; 
             background-color: #3498db;
