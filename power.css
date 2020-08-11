@@ -94,7 +94,12 @@ iframe {
  
 }
 
-body{background-color: #1b1b1b;}
+body{
+
+  background-color: #1b1b1b;
+
+
+}
 
 
 
@@ -161,11 +166,19 @@ th{
 	border-radius: 11px 11px 11px 11px; 
 }
 
-                         .dropdown-content a:hover {
-                          background-color: yellow;
-                          transition: background-color 0.2s;
- 	                  border:2px solid black;
-                           }
+.dropdown-content a:hover {
+
+
+  background-color: yellow;
+
+
+    transition: background-color 0.2s;
+ 
+	border:2px solid black;
+
+ 
+ 
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -249,7 +262,8 @@ border-radius:12px 12px 12px 12px;
 }
 
 .container{
-
+    font-family: BentonSansRE, Verdana, sans-serif;
+    font-size: 0.755rem;
     padding: 10px;
     width: 300px;
     background-color: #ffce4b;
@@ -281,13 +295,13 @@ font-weight: bold;
 
  }
 
- .name{
+ .name{color: #f2a83b;
   font-family:"Lato", sans-serif;
   text-decoration: none;
 }
 
         .git{
-
+          
           background-color: #24292e;
           color: white;
           font-weight: bold;
