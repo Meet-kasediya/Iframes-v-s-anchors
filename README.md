@@ -1,10 +1,5 @@
 # Iframes-v-s-anchors
-Just for fun!
- 
-### Prerequisites
-
-* a code editor - (Sublime, atom, etc.)
-* Understanding of HTMl/css/JS
+Just Experimenting! ⚗️
 
 
 ## Running the tests
@@ -13,7 +8,7 @@ Open 'Device.html' in any browser of your choice<br>
 Enjoy! :)
 
 
-## Built With
+## 🛠️ Built With
 
 * [Sublime] - For editing
 
