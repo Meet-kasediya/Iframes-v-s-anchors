@@ -6,7 +6,7 @@
  
 </head>
 <body>
-  <span class="git"><a href="https://github.com/Meet-kasediya/Iframes-v-s-anchors" class="gitacr">Github Files</a></span>
+<span ><a href="https://github.com/Meet-kasediya/" target="_blank">Github Files</a></span>
 <center>
  
 <!-- ============================================================================================== -->
@@ -44,8 +44,8 @@
 
 
 <th>
-      <a href="https://www.techradar.com/in/vpn/best-vpn" target="_blank">
-<button  title="Protect your IP address now!" class="vpn" id="myvpn" disabled>🌐 Setup VPN</button></a>
+      
+<button  title="Protect your IP address now!" class="vpn" id="myvpn" onclick="vpn()" disabled>🌐 Setup VPN</button> 
 
 </th>
 
@@ -164,13 +164,13 @@ function countDown() {
   if (sec < 10) {
     myTimer.innerHTML = "0" + sec;
   } else {
-    myTimer.innerHTML = 'Vpn will be enabled in: ' + sec + ' (s)';
+    myTimer.innerHTML = 'Btn will be enabled in: ' + sec + ' (s)';
   }
   if (sec == 0) {
-    mystatus.innerHTML = "Vpn Status: <font style='font:17px; color:#4cbb17;'>VPN Enabled</font>";
+    mystatus.innerHTML = "Vpn Status: <font style='font:17px; color:#4cbb17;'>Btn Enabled</font>";
     document.getElementById("myvpn").disabled = false; 
   } else {
-    myTimer.innerHTML = 'Vpn will be enabled in: ' +  sec+ ' (s)';
+    myTimer.innerHTML = 'Btn will be enabled in: ' +  sec+ ' (s)';
   }
   if (sec <= 0) {
     $("#myTimer").fadeTo(2500, 0);
@@ -180,10 +180,8 @@ function countDown() {
   window.setTimeout(countDown, 1000);
 }
 </script>
-<blockquote> <span class="credits"> - Created by <a href="https://github.com/Meet-kasediya" class="name">Meet kasediya</a></span></blockquote>
-<!-- credits
- -->
-
+ 
+ 
 
 
 
