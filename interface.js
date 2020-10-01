@@ -47,5 +47,10 @@ function ref() {
  function gml() {document.getElementById("isc").innerHTML = "'<font color='grey'>https://www.google.com/gmail/about/</font>'";}
 
  
+function vpn() {
+  alert(" 𝚃𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗 𝚢𝚘𝚞 𝚓𝚞𝚜𝚝 𝚙𝚛𝚎𝚜𝚜𝚎𝚍 𝚒𝚜 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚛𝚎𝚍𝚒𝚛𝚎𝚌𝚝 𝚢𝚘𝚞 𝚝𝚘 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚙𝚊𝚐𝚎. \n\n 𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚙𝚛𝚘𝚌𝚎𝚎𝚍? ");
+  window.location.href = "https://www.techradar.com/in/vpn/best-vpn";
+}
+
 
 
