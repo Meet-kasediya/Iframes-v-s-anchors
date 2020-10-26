@@ -1,6 +1,12 @@
 # Iframes-v-s-anchors
 Just Experimenting! ⚗️
+<br>
+ <details>
+  <summary>PREVIEW</summary><br> 
 
+<table><tr><th><img src="https://raw.githbusercontent.com/Meet-kasediya/Iframes-v-s-anchors/master/3.png" alt="Image not found!" height="320" width="400"></th><th><img src="htps://raw.githubusercontent.com/Meet-kasediya/Iframes-v-s-anchors/master/4.png" alt="Download the zip file to see pictures."  height="320" width="400"></th></tr></table>
+  
+</details> 
 
 ## Running the page
 
