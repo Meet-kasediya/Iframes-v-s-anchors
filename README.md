@@ -2,7 +2,7 @@
 Just Experimenting! ⚗️
 
 
-## Running the tests
+## Running the page
 
 Open 'Device.html' in any browser of your choice<br>
 Enjoy! :)
