@@ -32,3 +32,6 @@ Linkedin - https://www.linkedin.com/in/meet-kasediya-6308031ab/<br>
 <a href="https://iconscout.com/icons/gmail" target="_blank">Gmail Logo Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons" target="_blank">Pixel Icons</a>
  
 <a href="https://iconscout.com/icons/google-drive" target="_blank">Google drive Icon</a> by <a href="https://iconscout.com/contributors/icons8">Icons8</a> on <a href="https://iconscout.com">Iconscout</a>
+ 
+ - Scan To Download [Zip]<br><img src='https://github.com/Meet-kasediya/Iframes-v-s-anchors/blob/master/qrcode_github.com.png' alt="https://github.com/Meet-kasediya/CONSOLE/blob/master/qrcode_github.com.png" height='100' width='105'>
+
